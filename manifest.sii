@@ -1,0 +1,12 @@
+SiiNunit
+{
+mod_package : "FixCrimea"
+{
+    package_version: "1.0"
+    display_name: "Crimea Back Home - City & Plates Patch"
+    author: "Vados2343"
+    category[]: "map"
+    icon: "icon.jpg"
+    description_file: "mod_description.txt"
+}
+}
